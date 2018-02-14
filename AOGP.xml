@@ -1,0 +1,12 @@
+<manifest>
+	<project path="device/condor/M1" name="AOGP/android_device_condor_m1" remote="github" revision="LineageOs-14.1"/>
+	<project path="device/gionee/A1" name="AOGP/android_device_gionne_a1" remote="github" revision="LineageOs-14.1"/>
+	<project path="device/blu/VIVO8" name="AOGP/android_device_blu_vivo8" remote="github" revision="LineageOs-14.1"/>
+	<project path="device/condor/mt6755-common" name="AOGP/android_device_condor_mt6755-common" remote="github" revision="LineageOs-14.1"/>
+	<project path="device/gionee/mt6755-common" name="AOGP/android_device_gionee_mt6755-common" remote="github" revision="LineageOs-14.1"/>
+	<project path="device/blu/mt6755-common" name="AOGP/android_device_blu_mt6755-common" remote="github" revision="LineageOs-14.1"/>
+    <project path="vendor/condor" name="AOGP/android_vendor_condor_m1" remote="github" revision="LineageOs-14.1" sync-s="true"/>
+	<project path="vendor/gionee" name="AOGP/android_vendor_gionne_a1" remote="github" revision="LineageOs-14.1" sync-s="true"/>
+	<project path="vendor/blu" name="AOGP/android_vendor_blu_vivo8" remote="github" revision="LineageOs-14.1" sync-s="true"/>
+    <project path="packages/apps/KeySwitch" name="AOGP/KeySwitch" remote="github" revision="AOGP-build"/>
+</manifest>
