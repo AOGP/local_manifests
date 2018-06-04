@@ -4,10 +4,11 @@ First of all [clone LineageOS repo](https://github.com/LineageOS/android/tree/cm
 
 Then clone this local manifest
 
-```cd $working_dir && git clone https://github.com/AOGP/local_manifests.git -b cm-14.1 .repo/local_manifests && repo sync --force-sync```
+```cd $working_dir && git clone -b LineageOS-14.1 https://github.com/ALGPHELLO/local_manifests.git .repo/local_manifests && repo sync --force-sync```
 
 ### Once synced:
 
 * cd $working_dir
-* breakfast yourdevice(M1, A1, VIVO8)
-* brunch yourdevice(M1, A1, VIVO8)
+* Aply Patch
+* breakfast gnsz6753_66_n
+* brunch gnsz6753_66_n

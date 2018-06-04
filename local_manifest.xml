@@ -1,0 +1,5 @@
+<manifest>
+	<project path="device/condor/gnsz6753_66_n" name="ALGPHELLO/android_device_condor_gnsz6753_66_n" remote="github" revision="LineageOs-14.1" />
+	<project path="vendor/condor/gnsz6753_66_n" name="ALGPHELLO/android_vendor_condor_gnsz6753_66_n" remote="github" revision="LineageOs-14.1" />
+	<!--<project path="kernel/condor/gnsz6753_66_n" name="ALGPHELLO/android_kernel_condor_gnsz6753_66_n" remote="github" revision="LineageOs-14.1" />-->
+</manifest>
