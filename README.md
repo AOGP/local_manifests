@@ -4,7 +4,7 @@ First of all [clone LineageOS repo](https://github.com/LineageOS/android/tree/cm
 
 Then clone this local manifest
 
-```cd $working_dir && git clone -b LineageOS-14.1 https://github.com/ALGPHELLO/local_manifests.git -b LineageOS-14.1 .repo/local_manifests && repo sync --force-sync```
+```cd $working_dir && git clone -b LineageOS-14.1 https://github.com/ALGPHELLO/local_manifests.git .repo/local_manifests && repo sync --force-sync```
 
 ### Once synced:
 
